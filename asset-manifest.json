@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b9f3968.css",
-    "main.js": "/static/js/main.b2a5ced1.js",
+    "main.css": "/static/css/main.e6ba4247.css",
+    "main.js": "/static/js/main.e427aca3.js",
     "static/media/profile.png": "/static/media/profile.4dc9b8c5667364f81fed.png",
     "static/media/VikasResume.pdf": "/static/media/VikasResume.66dee87805cd2e5e4773.pdf",
     "static/media/github.svg": "/static/media/github.9ce0671497b7277aa2d29a59d4a0528e.svg",
@@ -14,11 +14,11 @@
     "static/media/menu_icon.svg": "/static/media/menu_icon.642726c84457304e7356fd50b6be9a43.svg",
     "static/media/circle-info-solid.svg": "/static/media/circle-info-solid.18f09a22e81b0be7ce4c6434c7c0cb14.svg",
     "static/media/file-solid-cv.svg": "/static/media/file-solid-cv.fe9e90c1f4e6ceabb8278fc6a17f757e.svg",
-    "main.2b9f3968.css.map": "/static/css/main.2b9f3968.css.map",
-    "main.b2a5ced1.js.map": "/static/js/main.b2a5ced1.js.map"
+    "main.e6ba4247.css.map": "/static/css/main.e6ba4247.css.map",
+    "main.e427aca3.js.map": "/static/js/main.e427aca3.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b9f3968.css",
-    "static/js/main.b2a5ced1.js"
+    "static/css/main.e6ba4247.css",
+    "static/js/main.e427aca3.js"
   ]
 }
